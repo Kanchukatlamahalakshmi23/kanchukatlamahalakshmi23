@@ -7,5 +7,5 @@ I'm a recent B.Tech graduate in AI & Machine Learning from Hyderabad, India, wit
 
 ---
 Check out my main project:
-- **[Fraud Detection in Social Networks](https://github.com/Kanchukatlamahalakshmi23/fraud-detection-social-network)**
-  
+* [Fraud Detection in Social Networks](URL-to-your-fraud-detection-project)
+* [Money Laundering Detection](URL-to-your-money-laundering-project)
