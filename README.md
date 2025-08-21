@@ -3,7 +3,7 @@ I'm a recent B.Tech graduate in AI & Machine Learning from Hyderabad, India, wit
 
 - 🔭 I’m currently looking for full-time roles as a Machine Learning Engineer or NLP Engineer.
 -  I’m skilled in: Python, Scikit-learn, TensorFlow, and NetworkX.
--  How to reach me: [Paste Your LinkedIn Profile URL Here]
+-  How to reach me:https://www.linkedin.com/in/kanchukatlamahalakshmi
 
 ---
 Check out my main project:
